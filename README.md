@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohith Varma</h1>
+<h3 align="center">A Fullstack developer from India</h3>
+<p align="center"> <img src="https://raw.githubusercontent.com/bhuvan-dv/bhuvan-dv/main/linkedin-banner.jpg" alt="cover" /> </p>
 <h3 align="center">A Driven software engineering enthusiast from Boston</h3>
 
 - 🔭 I’m currently working on **SpringBoot based web-app**
