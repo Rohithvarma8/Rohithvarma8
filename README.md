@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/bhuvan-dv/bhuvan-dv/main/linkedin-banner.jpg" alt="cover" /> </p>
 <h3 align="center">A Driven software engineering enthusiast from Boston</h3>
 
-- 🔭 I’m currently working on **DevOps Project (Deploying API(Spring Boot) in AWS and GCP**
+- 🔭 I’m currently working on **DevOps Project (Deploying Spring Boot API in AWS and GCP)**
 
 - 🌱 I’m currently learning **AWS S3, Lambda, EC2**
 
