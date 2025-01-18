@@ -3,11 +3,11 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/bhuvan-dv/bhuvan-dv/main/linkedin-banner.jpg" alt="cover" /> </p>
 <h3 align="center">A Driven software engineering enthusiast from Boston</h3>
 
-- 🔭 I’m currently working on **SpringBoot based web-app**
+- 🔭 I’m currently working on **DevOps Project (Deploying API(Spring Boot) in AWS and GCP**
 
-- 🌱 I’m currently learning **Spring MVC, SpringBoot**
+- 🌱 I’m currently learning **AWS S3, Lambda, EC2**
 
-- 💬 Ask me about **Java, JavaScript and MERN stack**
+- 💬 Ask me about **Spring Boot, Node.js, React.js, Networking & Cloud Concepts**
 
 - 📫 How to reach me **datla.b@northeastern.edu**
 
