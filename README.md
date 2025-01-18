@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohith Varma</h1>
 <h3 align="center">Currently Pursuing Master's in Software Engineering Systems from Northeastern University</h3>
 <p align="center"> <img src="https://raw.githubusercontent.com/bhuvan-dv/bhuvan-dv/main/linkedin-banner.jpg" alt="cover" /> </p>
-<h3 align="center">A Driven software engineering enthusiast from Boston</h3>
+<h3 align="center">A Software Engineering enthusiast from Boston</h3>
 
 - 🔭 I’m currently working on **DevOps Project (Deploying Spring Boot API in AWS and GCP)**
 
