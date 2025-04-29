@@ -3,11 +3,11 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/bhuvan-dv/bhuvan-dv/main/linkedin-banner.jpg" alt="cover" /> </p>
 <h3 align="center">A Software Engineering enthusiast from Boston</h3>
 
-- 🔭 I’m currently working on **DevOps Project (Deploying Spring Boot API in AWS and GCP)**
+- 🔭 I’m currently working on **Kuberentes based POC project**
 
-- 🌱 I’m currently learning **AWS S3, Lambda, EC2**
+- 🌱 I’m currently learning **Kubernetes and Docker**
 
-- 💬 Ask me about **Spring Boot, Node.js, React.js, Networking & Cloud Concepts**
+- 💬 Ask me about **Networking & Cloud Concepts, SRE, DevOps, Spring Boot, Node.js**
 
 - 📫 How to reach me **datla.b@northeastern.edu**
 
